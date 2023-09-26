@@ -16,4 +16,4 @@ Change marker colors
 Add Dark/Light mode of the map
 
 # License information
-License information Code from MIT xPro Womone Coding June 2023 Cohort | Helga Sallaku
+License information Code from MIT xPro Women Coding June 2023 Cohort | Helga Sallaku
